@@ -1,6 +1,0 @@
-1. Terminal App - I use Git Bash and Powershell interchangably but have preference with bash when working on a project
-2. Git Version Control - Downloaded and set up on local device
-3. NodeJS and NPM - Downloaded and set up on local device
-4. No gitignore, public repository, name is task4, no liscense 
-5. Using Visual Studio code
-6. default configurations except for theme
