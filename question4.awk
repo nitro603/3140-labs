@@ -3,7 +3,7 @@ BEGIN {
     
     FS = ","
 }
-#8,9,10 if they're empty, we probably didn't catch em
+#8,9,10 if they're empty, we probably didn't catch them
 
     $9 == "" && $10 == "" && $11 == ""{
         boroughCount[$4]++
